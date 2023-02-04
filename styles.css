@@ -1,0 +1,28 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.ingredients {
+    background-color: #DBCFAB;
+}
+
+.loud {
+    font-weight: 800;
+}
+
+.descriptions {
+    background-color: #698498;
+}
+
+.steps {
+    background-color: #B4864D;
+}
+
+.title {
+    background-color: #2D4E66;
+    color: white;
+}
+
+.filler {
+    background-color: #CDA777;
+}
